@@ -1,6 +1,6 @@
 {
-  "name": "preco_mercado_btc",
-  "short_name": "preco_mercado_btc",
+  "name": "R$Bitcoin",
+  "short_name": "R$Bitcoin",
   "icons": [
     {
       "src": "/static/img/icons/btc.jpg",
